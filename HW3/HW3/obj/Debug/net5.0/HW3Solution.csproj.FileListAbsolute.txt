@@ -1,0 +1,16 @@
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\bin\Debug\net5.0\HW3Solution.exe
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\bin\Debug\net5.0\HW3Solution.deps.json
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\bin\Debug\net5.0\HW3Solution.runtimeconfig.json
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\bin\Debug\net5.0\HW3Solution.runtimeconfig.dev.json
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\bin\Debug\net5.0\HW3Solution.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\bin\Debug\net5.0\ref\HW3Solution.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\bin\Debug\net5.0\HW3Solution.pdb
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\obj\Debug\net5.0\HW3Solution.csproj.AssemblyReference.cache
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\obj\Debug\net5.0\HW3Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\obj\Debug\net5.0\HW3Solution.AssemblyInfoInputs.cache
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\obj\Debug\net5.0\HW3Solution.AssemblyInfo.cs
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\obj\Debug\net5.0\HW3Solution.csproj.CoreCompileInputs.cache
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\obj\Debug\net5.0\HW3Solution.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\obj\Debug\net5.0\ref\HW3Solution.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\obj\Debug\net5.0\HW3Solution.pdb
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW3\HW3\HW3\obj\Debug\net5.0\HW3Solution.genruntimeconfig.cache
